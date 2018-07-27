@@ -5,7 +5,7 @@
 - Bootstrap
 - Axios
 - React Router
-- Sass Support
+- Node Sass
 
 **Start Project**
 ```bash
