@@ -20,7 +20,6 @@
     "sass": "node-sass -w src/sass/app.scss src/css/app.css --output-style expanded"
   },
   "devDependencies": {
-    "node-sass": "^4.9.2",
-    "sass-loader": "^7.0.3"
+    "node-sass": "^4.9.2"
   }
 }
