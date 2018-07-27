@@ -1,0 +1,16 @@
+img{
+    max-width: 100%;
+}
+
+.hero-area{
+    background: #222;
+    color: #FFF;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .react-logo{
+        width: 200px;
+    }
+}
