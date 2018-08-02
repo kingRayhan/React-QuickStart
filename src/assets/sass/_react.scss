@@ -1,0 +1,14 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.react{
+    width: 300px;
+    text-align: center;
+    img{
+        max-width: 100%;
+    }
+}
