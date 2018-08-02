@@ -1,11 +1,19 @@
-# React quickstart
+<center>
+    <img src="cover.png">
+</center> 
 
-**Installed**
-
-- Bootstrap
+**Supported Features**
+- Bootstrap - v4
+- Font Awesome - v4.7
 - Axios
 - React Router
-- Node Sass
+- Sass
+
+**Todos**
+
+- [ ] jQuery plugin support
+- [ ] Location alias
+- [ ] Scoped css styling support
 
 **Start Project**
 ```bash
